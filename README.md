@@ -1,3 +1,5 @@
+<h1 align="center"> <img src="https://cdn.shopify.com/s/files/1/0017/6911/1621/products/1_6c9bbf26-bc6b-449f-8667-1053a2305b00_1024x1024@2x.jpg?v=1578176418" /></h1>
+
 <h1 align="center">Hello! Welcome to Ethan's Spectacular GitHub Page</h1>
 <h3 align="center">So many wonderful treasures lie within</h3>
 
