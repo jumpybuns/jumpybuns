@@ -1,5 +1,5 @@
 <h1 align="center">Hello! Welcome to Ethan's Spectacular GitHub Page</h1>
-<h3 align="center">So many wonderful treasure lie within</h3>
+<h3 align="center">So many wonderful treasures lie within</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jumpybuns&label=Profile%20views&color=0e75b6&style=flat" alt="jumpybuns" /> </p>
 
