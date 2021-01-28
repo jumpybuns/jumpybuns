@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jumpybuns" alt="jumpybuns" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/EthanPierce82" target="blank"><img src="https://img.shields.io/twitter/follow/ethanpiercepresents?logo=twitter&style=for-the-badge" alt="ethanpiercepresents" /></a> </p>
-
 - 🔭 I’m currently working on Live Chat app [Chatable](https://adoring-wright-0eba98.netlify.app/)
 
 - 👨‍💻 All of my projects are available at GitHub [https://github.com/jumpybuns](https://github.com/jumpybuns)
