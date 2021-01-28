@@ -1,5 +1,5 @@
 
-<h1 align="center"> <img src="https://blog.newrelic.com/wp-content/uploads/good-programmer-banner.jpg" /></h1>
+<h1 align="center"> <img src="https://drive.google.com/file/d/1QZUm7ijvAHW-UhXcOisaBbDQlV9sNC7t" /></h1>
 <h1 align="center">Hello! Welcome to Ethan's Spectacular GitHub Page</h1>
 <h3 align="center">So many wonderful treasures lie within</h3>
 
