@@ -1,5 +1,5 @@
 
-<h1 align="center"> <img src="https://i.postimg.cc/FsJ3SXKc/ethan-banner.jpg" /></h1>
+<h1 align="left"> <img src="https://i.postimg.cc/FsJ3SXKc/ethan-banner.jpg" /></h1>
 <h1 align="center">Hello! Welcome to Ethan's Spectacular GitHub Page</h1>
 <h3 align="center">So many wonderful treasures lie within</h3>
 
