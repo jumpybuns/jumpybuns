@@ -1,5 +1,5 @@
 
-<h1 align="left"> <img src="https://i.postimg.cc/FHpBMSQh/ethan-banner.jpg" /></h1>
+<h1 align="left"> <img src="//live.staticflickr.com/7043/6940619633_1176a7d5f2_c.jpg" class="zoom-large"></h1>
 <h1 align="center">Hello! Welcome to Ethan's Spectacular GitHub Page</h1>
 <h3 align="center">So many wonderful treasures lie within</h3>
 
