@@ -1,5 +1,5 @@
 
-<h1 align="left"> <img src="//live.staticflickr.com/7043/6940619633_1176a7d5f2_c.jpg" class="zoom-large"></h1>
+<h1 align="left"> <a href="https://ibb.co/y08gLpp"><img src="https://i.ibb.co/Q96Yskk/soroc-terminals-large.jpg" alt="soroc-terminals-large" width="900vw" border="3"></a></h1>
 <h1 align="center">Hello! Welcome to Ethan's Spectacular GitHub Page</h1>
 <h3 align="center">So many wonderful treasures lie within</h3>
 
@@ -20,7 +20,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jumpybuns&" alt="jumpybuns" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jumpybuns&label=Profile%20views&color=0e75b6&style=flat" alt="jumpybuns" /> </p>
-
+ph
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jumpybuns" alt="jumpybuns" /></a> </p>
 
 
