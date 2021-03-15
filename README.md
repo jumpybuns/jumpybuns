@@ -1,5 +1,5 @@
+<h1 align="center"> <a href="https://ibb.co/y08gLpp"><img src="./assets/Ethan Pierce.gif" alt="soroc-terminals-large" width="1200vw" border="3"></a></h1>
 
-<h1 align="center"> <a href="https://ibb.co/3Tbq3cy"><img src="https://i.ibb.co/ZfrPjx6/Ethan-Pierce.gif" alt="Ethan-Pierce" border="0"></a></h1>
 
 <h1 align="center">Hello! Welcome to Ethan's Spectacular GitHub Page</h1>
 <h3 align="center">So many wonderful treasures lie within</h3>
