@@ -1,3 +1,5 @@
+
+
 <h1 align="center"> <a href="https://ibb.co/y08gLpp"><img src="./assets/Ethan Pierce.gif" alt="soroc-terminals-large" width="1200vw" border="3"></a></h1>
 
 
