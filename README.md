@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on Live Chat app [Chatable](https://adoring-wright-0eba98.netlify.app/)
 
-- 👨‍💻 All of my projects are available at GitHub [https://github.com/jumpybuns](https://github.com/jumpybuns)
+- 👨‍💻  Let's share projects!
 
-- 💬 Ask me about **Programming, Music, Movies, Games, Philosophy, Life**
+- 💬  **Programming, Music, Movies, Games, Philosophy, Life**
 
 
 <h3 align="center">Languages and Tools:</h3>
