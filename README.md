@@ -6,7 +6,7 @@
 <h1 align="center">Hello! Welcome to Ethan's Spectacular GitHub Page</h1>
 <h3 align="center">So many wonderful treasures lie within</h3>
 
-- 🔭 I’m currently working on Live Chat app [Chatable](https://adoring-wright-0eba98.netlify.app/)
+- 🔭 I’m currently working on a website for Musicians who also software developers, programmers and designers!
 
 - 👨‍💻  Let's share projects!
 
